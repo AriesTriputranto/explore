@@ -16,6 +16,11 @@ You can run the tests using:
 
 ```bash
 script/cibuild
+
+user can click with website support
+
+https://en.m.wikipedia.org/Wiki/github_explore
+
 ```
 
 ## Licenses
